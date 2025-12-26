@@ -1,4 +1,6 @@
 
+### to get NextJs project web app follow this link
+https://github.com/Kostalaroche1/Smart-Home-Web-App-Next.js-MQTT.git
 ---
 
 # **2️⃣ ESP32 Repo README.md**
@@ -33,6 +35,3 @@ client.setServer("your-cluster.s1.eu.hivemq.cloud", 8883);
 client.connect("esp32cam", mqttUser, mqttPass);
 client.subscribe("home/lights");
 
-
-### to get NextJs project web app follow this link
-https://github.com/Kostalaroche1/Smart-Home-Web-App-Next.js-MQTT.git
